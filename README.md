@@ -1,4 +1,4 @@
-GEE_Scripts
+**GEE_Scripts**
 
 This repo is dedicated to scripts for Google Earth Engine.
 
